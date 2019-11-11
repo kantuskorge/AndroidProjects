@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InterfazUsuarioYControlesApp</string>
+    <string name="texto_usuario">Nombre de usuario</string>
+    <string name="texto_contrasena">Contrasena</string>
+    <string name="texto_selecionar">Seleccionar color</string>
+    <string name="texto_boton">Presionar !!!</string>
+</resources>
